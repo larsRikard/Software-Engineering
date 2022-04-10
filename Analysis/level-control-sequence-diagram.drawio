@@ -1,0 +1,32 @@
+<mxfile host="65bd71144e">
+    <diagram id="vckkwV_smAUlrpQs1JhD" name="Page-1">
+        <mxGraphModel dx="1389" dy="808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="3" value="Level Control" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="1" vertex="1">
+                    <mxGeometry x="160" y="80" width="95" height="430" as="geometry"/>
+                </mxCell>
+                <mxCell id="39" value="Configuration" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+                    <mxGeometry x="490" y="80" width="95" height="430" as="geometry"/>
+                </mxCell>
+                <mxCell id="40" value="Display Values" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+                    <mxGeometry x="300" y="80" width="95" height="430" as="geometry"/>
+                </mxCell>
+                <mxCell id="48" value="Control Application" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+                    <mxGeometry x="20" y="80" width="100" height="430" as="geometry"/>
+                </mxCell>
+                <mxCell id="49" value="create: rLevelControl" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="1" source="48" target="3">
+                    <mxGeometry x="-0.1225" y="10" width="80" relative="1" as="geometry">
+                        <mxPoint x="110" y="210" as="sourcePoint"/>
+                        <mxPoint x="190" y="210" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="170" y="160"/>
+                        </Array>
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
